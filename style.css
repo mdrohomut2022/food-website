@@ -150,7 +150,12 @@ span{
    background-image: url(images/7.png);
    margin-bottom: 20px;
 }
+.btn-primary{
 
+   background-image: linear-gradient(orange,tomato);
+   padding: 15px 40px;
+   border-radius: 20px;
+}
 .website-footer{
     
     padding: 8%;
