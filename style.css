@@ -145,11 +145,17 @@ span{
  border-bottom-left-radius: 5px;
 }
 
+.oder-site{
+    padding-left: 30px;
+   background-image: url(images/7.png);
+   margin-bottom: 20px;
+}
+
 .website-footer{
     
     padding: 8%;
     text-align: center;
-    background-color: #FBEAEC;
+    background-color: #f8560a;
 }
 
 .website-footer p{
@@ -177,4 +183,3 @@ span{
     border-radius: 80%;
 }
   
- 
